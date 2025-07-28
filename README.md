@@ -18,12 +18,12 @@ This project simulates Zernike-mode-based adaptive optics (AO) wavefront correct
 - Optional: D-Wave Ocean SDK for QUBO-based actuator optimization
 
 ## Project Structure
-
+```
 adaptive-optics/#
 ├── xxx.py/#
 ├── yyy.py
 └── README.md
-
+```
 
 ## Background
 This simulator was built as a proof of concept by Molly Maskrey, drawing on years of experience in adaptive optics at AMOS atop Haleakalā. The goal is to provide a research-grade sandbox for exploring classical and quantum AO optimization strategies.
