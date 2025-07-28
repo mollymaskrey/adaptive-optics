@@ -20,8 +20,8 @@ This project simulates Zernike-mode-based adaptive optics (AO) wavefront correct
 ## Project Structure
 ```
 adaptive-optics/#
-├── classic_ao_gui.py    # classic AO with UI Interface
-├── yyy.py
+├── classical_ao_gui.py    # classic AO with UI Interface
+├── qpu_ao_test.py
 └── README.md
 ```
 
