@@ -19,7 +19,7 @@ This project simulates Zernike-mode-based adaptive optics (AO) wavefront correct
 
 ## Project Structure
 
-ao-simulator/
+adaptive-optics/
 ├── ao_core/ # Core AO logic: Zernike, correction matrix, error calc
 ├── gui/ # Gradio UI layout and visual controls
 ├── quantum/ # Optional D-Wave integration (QUBO model, solver call)
