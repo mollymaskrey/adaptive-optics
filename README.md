@@ -24,6 +24,7 @@ adaptive-optics/#
 ├── yyy.py
 └── README.md
 
+
 ## Background
 This simulator was built as a proof of concept by Molly Maskrey, drawing on years of experience in adaptive optics at AMOS atop Haleakalā. The goal is to provide a research-grade sandbox for exploring classical and quantum AO optimization strategies.
 
