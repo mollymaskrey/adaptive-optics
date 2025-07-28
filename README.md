@@ -4,11 +4,11 @@ This project simulates Zernike-mode-based adaptive optics (AO) wavefront correct
 
 ## Features
 
-- ✅ Simulated wavefront error based on Zernike polynomials  
-- ✅ Interactive UI for adjusting correction parameters  
-- ✅ Real-time visual output of corrected vs uncorrected wavefronts  
-- ✅ Modular architecture for easy adaptation to different optical systems  
-- ✅ D-Wave QPU-ready scripts for quantum-based AO optimization (optional)
+- Simulated wavefront error based on Zernike polynomials  
+- Interactive UI for adjusting correction parameters  
+- Real-time visual output of corrected vs uncorrected wavefronts  
+- Modular architecture for easy adaptation to different optical systems  
+- D-Wave QPU-ready scripts for quantum-based AO optimization (optional)
 
 ## Technologies Used
 
@@ -27,16 +27,18 @@ adaptive-optics/#
 ```
 
 ## Background
-This simulator was built as a proof of concept by Molly Maskrey, drawing on years of experience in adaptive optics at AMOS atop Haleakalā. The goal is to provide a research-grade sandbox for exploring classical and quantum AO optimization strategies.
+This simulator was built as a proof of concept by Molly Maskrey, drawing on years of experience in adaptive optics at AMOS atop Haleakalā. The goal is to provide a research-grade sandbox for exploring classical and quantum AO optimization strategies. The idea came fom my experience taking the D-Wave Quantum Core training. Finding that I had solver time remaining after completing the class, I wanted
+gain more experience using the actual hardware while I had the chance.
 
 ## Future Enhancements
-🌐 Web-based deployment using Dash or Flask
 
-📡 Real-time actuator data integration
+• Web-based deployment using Dash or Flask
 
-🧠 Reinforcement learning for dynamic correction control
+• Real-time actuator data integration
 
-⚛️ Hybrid quantum-classical solvers for multi-mode AO
+• Reinforcement learning for dynamic correction control
+
+• Hybrid quantum-classical solvers for multi-mode AO
 
 
 
