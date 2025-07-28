@@ -20,17 +20,22 @@ This project simulates Zernike-mode-based adaptive optics (AO) wavefront correct
 ## Project Structure
 
 adaptive-optics/
-├── ao_core/ # Core AO logic: Zernike, correction matrix, error calc
-├── gui/ # Gradio UI layout and visual controls
-├── quantum/ # Optional D-Wave integration (QUBO model, solver call)
-├── tests/ # Test cases and demo modes
-├── assets/ # Visual references, diagrams
-├── README.md
-└── requirements.txt
+├── xxx.py
+├── yyy.py
+└── README.md
 
-bash
-Copy
-Edit
+## Background
+This simulator was built as a proof of concept by Molly Maskrey, drawing on years of experience in adaptive optics at AMOS atop Haleakalā. The goal is to provide a research-grade sandbox for exploring classical and quantum AO optimization strategies.
+
+## Future Enhancements
+🌐 Web-based deployment using Dash or Flask
+
+📡 Real-time actuator data integration
+
+🧠 Reinforcement learning for dynamic correction control
+
+⚛️ Hybrid quantum-classical solvers for multi-mode AO
+
 
 
 
